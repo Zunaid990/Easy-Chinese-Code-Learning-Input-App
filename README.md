@@ -1,11 +1,26 @@
 # ECCApp 🀄  
 A simple desktop Chinese input helper that lets you look up characters using **Easy Chinese Code (ECC)**. Built with Python, powered by a cleaned ECC dataset, and wrapped in a Tkinter GUI for quick lookup and learning.
 
-<a href="https://github.com/your-username/eccapp" target="_blank">ECCApp Repository</a>
+<a >ECCApp Application</a>
 
 ![ECCApp Screenshot](./eccc.JPG)
 
 ---
+
+## How to Run 🖥️
+
+### 1. Prerequisites
+
+- **Python 3.8+** installed  
+- The following Python packages:
+  - `pandas`
+  - `numpy`  
+- `data.csv` file in the **same folder** as `ecc.py`
+
+You can install the dependencies with:
+
+```bash
+pip install pandas numpy
 
 ## How It's Made:
 
