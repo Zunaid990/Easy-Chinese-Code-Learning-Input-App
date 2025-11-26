@@ -1,11 +1,4 @@
-# ECCApp 🀄  
-A simple desktop Chinese input helper that lets you look up characters using **Easy Chinese Code (ECC)**. Built with Python, powered by a cleaned ECC dataset, and wrapped in a Tkinter GUI for quick lookup and learning.
 
-<a >ECCApp Application</a>
-
-![ECCApp Screenshot](./eccc.JPG)
-
----
 
 # ECCApp 🀄  
 A simple desktop Chinese input helper that lets you look up characters using **Easy Chinese Code (ECC)**. Built with Python, powered by a cleaned ECC dataset, and wrapped in a Tkinter GUI for quick lookup and learning.
