@@ -1,37 +1,4 @@
-# import pandas as pd
-# import numpy as np
-# import tkinter as tk
-# from tkinter import messagebox
 
-# root = tk.Tk()
-# root.title("ecc")
-# root.geometry("300x200")
-
-# entry = tk.Entry(root)
-# entry.pack(pady=10)
-
-# output = tk.Label(root, text="", fg="blue")
-# output.pack(pady=10)
-
-
-# df = pd.read_csv("data.csv")
-# df = df[['character', 'voice_code', '1', '2', '3']]
-
-
-# def return_ecc():
-#     input_arr = np.array(list(entry.get()))
-#     dimensions = df.shape
-#     for i in range(0, dimensions[1]):
-#         result = (df.iloc[i][1:len(input_arr) + 1] == input_arr).all()
-#         if result:
-#             print(df.iloc[i, 0])
-#             output.config(text=df.iloc[i, 0])
-
-
-# button = tk.Button(root, text="submit", command=return_ecc)
-# button.pack(pady=10)
-
-# root.mainloop()
 
 import pandas as pd
 import numpy as np
